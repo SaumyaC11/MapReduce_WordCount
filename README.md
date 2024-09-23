@@ -4,7 +4,7 @@ Text documents can sometimes be very lengthy and to understand the similarity be
 Provide mapping the word to their respective count functionality
 
 
-Libaries used - SparK
+Libaries used - Spark
 
 
 ~ Saumya Chaudhary
